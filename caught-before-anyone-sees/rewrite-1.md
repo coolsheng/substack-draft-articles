@@ -11,21 +11,22 @@ However, are we hollow experts once we take away AI?
 
 ## The Friday I wiped production
 
-Friday afternoon, circa 2019 BE (Before Claude) — I wiped a production database. With the help of my dependent seniors, we sweated over Friday night drinks and resolved it. Monday, we debriefed it as an incident: me at the front, nine other engineers in the room - one man's failure is a lesson for the other nine.
+Friday 2pm, circa 2019 BC (Before Claude) — I wiped a production database, again.
+Friday 5.30pm, we sweated but we fixed it over drinks.
+Monday 9am, I had to explain to a room of engineers why I am such a dumbass - one man's failure is a lesson for the other nine.
 
 The part I didn't notice at the time — I wasn't just teaching them the fix. I was teaching them how to *talk* about the fix. The names we gave the bug. The story we told about it. The shorthand that would, a year later, let any one of us debug a 2am outage by speaking a sentence and a half to each other.
 
-In a way, it was a tribunal wisdom passed through a communal ritual.
+This is the sort of communal event where tribunal wisdom gets passed down.
 
 > *Intelligence is knowing fire is hot. Wisdom is knowing not to touch it.*
 
 ## Knowledge without a shared language
 
-Wisdom is communication-shaped. Knowledge alone is not.
 
-> "So what? The individual learns faster, doesn't that net out?"
+> "So what? The individual learns faster, doesn't that net out? Saves me from embarrassing myself public also."
 
-No, because the thing being lost wasn't in the lesson. It was in the language we built around the lesson.
+No, because the thing being lost wasn't in the public execution. It was in the language we built around the lesson.
 
 When everyone fills the gap privately, no two teammates carry the same reference back. Different prompts, different agents, different patched understandings of the same problem. AI gives each of us a correct but disparate answer. While technically correct, is it right?
 
