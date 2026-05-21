@@ -1,39 +1,24 @@
 # Future Isn't Just Compute
+> It also includes people
 
-<!--
-THESIS CANDIDATE (sharpened mid-session 2026-05-21):
-"The paper acknowledges adoption matters, but treats it as a downstream
-variable to be optimized through policy levers — not as a function of
-human choice with its own logic. The fronts the paper underweights
-aren't ignored; they're misframed."
+Have a look this bombshell - https://www.anthropic.com/research/2028-ai-leadership - released just as the US delegation was in China for their historic visit.
+If you read past the geopolitics, Anthropic just gave us the cookbook of AI domination in their Four Fronts of Competition: Compute, Domestic Adoption, Global Distribution and Resilience as the pillars.
 
-HEDGE BUDGET: ≤1 across the whole piece. Cuts: "I think / fear / perhaps /
-maybe / in my opinion / arguably / I want to."
+The most straightforward is compute.
+The assumption is that with enough compute, the model intelligence superiority will feed easily downstream to the other 3 pillars.
+Compute is king and when you control it, the rest will fall in line.
+That's the thesis at least, and it seems like it's working - compute is expected to gap against CCP's non-democratic AI at an exponential rate.
+In 2026 however, it's also the most diminishing as it understimates the complexity and most unpredicatble system of all - the people.
+Let's look at how these AI labs are tackling these 3.
 
-VOICE: co-equal with thesis-first + hedge budget. A reader who knows
-Sheng's prior work should recognize the writer by P2 — specific lens,
-noticing, image, or stance on the page, not paraphrase. Humour as
-punctuation in the open; dial down as stakes climb so the defection
-beat lands serious.
+# Why Are Everyone Hiring FDEs?
+Remember when the term Cloud Migration was HOT? Yeah now it's same but it's called AI Native strategy.
+The cloud architects? Reskinned to be called Forward Deployed Engineers.
+This is their solution to tackling domestic migration - and it works, much like vendor lock-in with cloud, when your business flow or product has AI capabilities, ripping it out or migrating it is HARD. What do you replace it with? Humans?
+No, once it's in, it's there to day, even to change AI models might not be as easy due to different models excelling at different things - you'll be risking your product experience.
 
-REGISTER: technologist, not technical-writer. No section H2s in the
-published version (strip the "## P3 ·" markers below). Arc, not survey.
--->
 
-## P1–P2 · Open (briefing, compressed) — DRAFTED (v2.5)
 
-<!--
-Already landed. Keep current prose:
-- "Anthropic dropped this bombshell + China-visit timing" hook
-- "(cough American cough)" + "favourite child" + "stupid, sexy NVIDIA"
-- Thesis line lands in P2 (blank-line paragraph) — "underestimates the
-  most unpredictable system of all - the people"
-- 0 hedges, voice on page.
-
-Standing notes for the polish pass: "simplistic" → consider "conflates"
-or "collapses" for more bite. "Stupid, sexy NVIDIA" = South Park ref,
-dates the piece; defensible if on purpose.
--->
 
 ## P3 · Acknowledge the strongest counter, then push (the setup)
 
